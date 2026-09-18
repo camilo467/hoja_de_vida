@@ -1,0 +1,19 @@
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: cursive;
+}
+
+h1
+{
+    color: #1f2937;
+    font-size: 40px;
+}
+
+.seccion{
+    background-color: rgb(252, 251, 251);
+}
+
+#perfil{
+    background-color: #526686;
+}
